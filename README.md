@@ -1,4 +1,6 @@
 # Country Data Map
+<img width="613" height="360" alt="Screenshot" src="https://github.com/user-attachments/assets/90af9af0-9c0c-4b6a-ae02-ae11254a55cf" />
+
 By: Douglas Leidgen
 
 # Stack
